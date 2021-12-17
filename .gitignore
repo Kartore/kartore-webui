@@ -32,6 +32,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+.idea
 
-# typescript
-*.tsbuildinfo
+# Sentry
+.sentryclirc
+
+# Sentry
+.sentryclirc
+
+.env
